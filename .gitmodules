@@ -1,0 +1,3 @@
+[submodule "examples/react-syncfusion-dashboard"]
+	path = examples/react-syncfusion-dashboard
+	url = git@github.com:abuabdirohman4/react-syncfusion-dashboard.git
